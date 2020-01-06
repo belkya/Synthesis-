@@ -1,17 +1,17 @@
 # Synthesis-
-Synthesis is a program created to calculate NDVI values for easy scientific analysis of an area of the users choosing using satellite imagery.
+#Synthesis is a program created to calculate NDVI values for easy scientific analysis of an area of the users choosing using satellite imagery.
 
-6CO2 + 12H2O + light → C6H12O6 + 6O2 + 6H2O
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                         6CO2 + 12H2O + light → C6H12O6 + 6O2 + 6H2O
 
-__    ___ ________   _________  ___  ___  _______   ________  ___  ________      
-|\   ____\     |\  \  /  /|\   ___  \|\___   ___\\  \|\  \|\  ___ \ |\   ____\|\  \|\   ____\     
-\ \  \___|_    \ \  \/  / | \  \\ \  \|___ \  \_\ \  \\\  \ \   __/|\ \  \___|\ \  \ \  \___|_    
- \ \_____  \    \ \    / / \ \  \\ \  \   \ \  \ \ \   __  \ \  \_|/_\ \_____  \ \  \ \_____  \    
-  \|____|\  \    \/  /  /   \ \  \\ \  \   \ \  \ \ \  \ \  \ \  \_|\ \|____|\  \ \  \|____|\  \  
-    ____\_\  \ __/  / /      \ \__\\ \__\   \ \__\ \ \__\ \__\ \_______\____\_\  \ \__\____\_\  \ 
-   |\_________\\___/ /        \|__| \|__|    \|__|  \|__|\|__|\|_______|\_________\|__|\_________\
-   \|_________\|___|/                                                  \|_________|   \|_________|
-    |    |
 
                                           _-_
                                             /~~   ~~\
